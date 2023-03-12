@@ -1,4 +1,8 @@
-# 💤 LazyVim
+# Neovim Configuration
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Install font-hack-nerd-font and set it as font in iTerm2
+Brew install lazygit
+Brew install ripgrep
+Brew install fd
+
+Everything else is lazy loaded and initialized automatically
